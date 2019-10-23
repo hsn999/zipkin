@@ -1,4 +1,4 @@
-package frontend.remote;
+package app2.remote;
 
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.cloud.openfeign.FeignClient;

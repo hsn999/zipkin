@@ -1,4 +1,4 @@
-package frontend.remote;
+package app2.remote;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestParam;

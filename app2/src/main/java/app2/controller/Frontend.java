@@ -1,11 +1,12 @@
-package frontend.controller;
+package app2.controller;
 
-import frontend.remote.HelloRemote;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+
+import app2.remote.HelloRemote;
 
 @RestController
 @CrossOrigin // So that javascript can be hosted elsewhere
