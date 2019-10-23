@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: frontend
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
